@@ -25,6 +25,8 @@ var gameOver = false;
 let score = 0;
 let elapsedTime = 0;
 
+// hello my name is
+
 function loadImages() {
   bgImage = new Image();
   bgImage.onload = function () {
